@@ -1,0 +1,1281 @@
+path,label,dataset,group
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_1 (1).jpg,HSIL,LBC,G0
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_1 (10).jpg,HSIL,LBC,G1
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_1 (11).jpg,HSIL,LBC,G2
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_1 (12).jpg,HSIL,LBC,G3
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_1 (13).jpg,HSIL,LBC,G4
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_1 (14).jpg,HSIL,LBC,G5
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_1 (15).jpg,HSIL,LBC,G6
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_1 (2).jpg,HSIL,LBC,G7
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_1 (3).jpg,HSIL,LBC,G8
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_1 (4).jpg,HSIL,LBC,G9
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_1 (5).jpg,HSIL,LBC,G10
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_1 (6).jpg,HSIL,LBC,G11
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_1 (7).jpg,HSIL,LBC,G12
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_1 (8).jpg,HSIL,LBC,G13
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_1 (9).jpg,HSIL,LBC,G14
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (1).jpg,HSIL,LBC,G15
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (10).jpg,HSIL,LBC,G16
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (11).jpg,HSIL,LBC,G17
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (12).jpg,HSIL,LBC,G18
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (13).jpg,HSIL,LBC,G19
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (14).jpg,HSIL,LBC,G20
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (15).jpg,HSIL,LBC,G21
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (16).jpg,HSIL,LBC,G22
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (17).jpg,HSIL,LBC,G23
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (18).jpg,HSIL,LBC,G24
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (19).jpg,HSIL,LBC,G25
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (2).jpg,HSIL,LBC,G26
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (3).jpg,HSIL,LBC,G27
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (4).jpg,HSIL,LBC,G28
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (5).jpg,HSIL,LBC,G29
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (6).jpg,HSIL,LBC,G30
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (7).jpg,HSIL,LBC,G31
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (8).jpg,HSIL,LBC,G32
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_10 (9).jpg,HSIL,LBC,G33
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (1).jpg,HSIL,LBC,G34
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (10).jpg,HSIL,LBC,G35
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (11).jpg,HSIL,LBC,G36
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (12).jpg,HSIL,LBC,G37
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (13).jpg,HSIL,LBC,G38
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (14).jpg,HSIL,LBC,G39
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (15).jpg,HSIL,LBC,G40
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (16).jpg,HSIL,LBC,G41
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (17).jpg,HSIL,LBC,G42
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (18).jpg,HSIL,LBC,G43
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (19).jpg,HSIL,LBC,G44
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (2).jpg,HSIL,LBC,G45
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (20).jpg,HSIL,LBC,G46
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (3).jpg,HSIL,LBC,G47
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (4).jpg,HSIL,LBC,G48
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (5).jpg,HSIL,LBC,G49
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (6).jpg,HSIL,LBC,G50
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (7).jpg,HSIL,LBC,G51
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (8).jpg,HSIL,LBC,G52
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_2 (9).jpg,HSIL,LBC,G53
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_3 (1).jpg,HSIL,LBC,G54
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_3 (2).jpg,HSIL,LBC,G55
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_3 (3).jpg,HSIL,LBC,G56
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_3 (4).jpg,HSIL,LBC,G57
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_3 (5).jpg,HSIL,LBC,G58
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (1).jpg,HSIL,LBC,G59
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (10).jpg,HSIL,LBC,G60
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (11).jpg,HSIL,LBC,G61
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (12).jpg,HSIL,LBC,G62
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (13).jpg,HSIL,LBC,G63
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (14).jpg,HSIL,LBC,G64
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (15).jpg,HSIL,LBC,G65
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (16).jpg,HSIL,LBC,G66
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (17).jpg,HSIL,LBC,G67
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (2).jpg,HSIL,LBC,G68
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (3).jpg,HSIL,LBC,G69
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (4).jpg,HSIL,LBC,G70
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (5).jpg,HSIL,LBC,G71
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (6).jpg,HSIL,LBC,G72
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (7).jpg,HSIL,LBC,G73
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (8).jpg,HSIL,LBC,G74
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_4 (9).jpg,HSIL,LBC,G75
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (1).jpg,HSIL,LBC,G76
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (10).jpg,HSIL,LBC,G77
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (11).jpg,HSIL,LBC,G78
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (12).jpg,HSIL,LBC,G79
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (13).jpg,HSIL,LBC,G80
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (14).jpg,HSIL,LBC,G81
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (15).jpg,HSIL,LBC,G82
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (16).jpg,HSIL,LBC,G83
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (17).jpg,HSIL,LBC,G84
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (18).jpg,HSIL,LBC,G85
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (19).jpg,HSIL,LBC,G86
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (2).jpg,HSIL,LBC,G87
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (20).jpg,HSIL,LBC,G88
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (21).jpg,HSIL,LBC,G89
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (22).jpg,HSIL,LBC,G90
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (23).jpg,HSIL,LBC,G91
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (3).jpg,HSIL,LBC,G92
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (4).jpg,HSIL,LBC,G93
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (5).jpg,HSIL,LBC,G94
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (6).jpg,HSIL,LBC,G95
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (7).jpg,HSIL,LBC,G96
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (8).jpg,HSIL,LBC,G97
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_5 (9).jpg,HSIL,LBC,G98
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (1).jpg,HSIL,LBC,G99
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (10).jpg,HSIL,LBC,G100
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (11).jpg,HSIL,LBC,G101
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (12).jpg,HSIL,LBC,G102
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (13).jpg,HSIL,LBC,G103
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (14).jpg,HSIL,LBC,G104
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (15).jpg,HSIL,LBC,G105
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (16).jpg,HSIL,LBC,G106
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (17).jpg,HSIL,LBC,G107
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (18).jpg,HSIL,LBC,G108
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (19).jpg,HSIL,LBC,G109
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (2).jpg,HSIL,LBC,G110
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (20).jpg,HSIL,LBC,G111
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (21).jpg,HSIL,LBC,G112
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (22).jpg,HSIL,LBC,G113
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (23).jpg,HSIL,LBC,G114
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (24).jpg,HSIL,LBC,G115
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (25).jpg,HSIL,LBC,G116
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (26).jpg,HSIL,LBC,G117
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (27).jpg,HSIL,LBC,G118
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (28).jpg,HSIL,LBC,G119
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (3).jpg,HSIL,LBC,G120
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (4).jpg,HSIL,LBC,G121
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (5).jpg,HSIL,LBC,G122
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (6).jpg,HSIL,LBC,G123
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (7).jpg,HSIL,LBC,G124
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (8).jpg,HSIL,LBC,G125
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_6 (9).jpg,HSIL,LBC,G126
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_7 (1).jpg,HSIL,LBC,G127
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_7 (10).jpg,HSIL,LBC,G128
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_7 (11).jpg,HSIL,LBC,G129
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_7 (12).jpg,HSIL,LBC,G130
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_7 (13).jpg,HSIL,LBC,G131
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_7 (14).jpg,HSIL,LBC,G132
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_7 (15).jpg,HSIL,LBC,G133
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_7 (2).jpg,HSIL,LBC,G134
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_7 (3).jpg,HSIL,LBC,G135
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_7 (4).jpg,HSIL,LBC,G136
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_7 (5).jpg,HSIL,LBC,G137
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_7 (6).jpg,HSIL,LBC,G138
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_7 (7).jpg,HSIL,LBC,G139
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_7 (8).jpg,HSIL,LBC,G140
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_7 (9).jpg,HSIL,LBC,G141
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_8 (1).jpg,HSIL,LBC,G142
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_8 (10).jpg,HSIL,LBC,G143
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_8 (11).jpg,HSIL,LBC,G144
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_8 (12).jpg,HSIL,LBC,G145
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_8 (13).jpg,HSIL,LBC,G146
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_8 (14).jpg,HSIL,LBC,G147
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_8 (2).jpg,HSIL,LBC,G148
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_8 (3).jpg,HSIL,LBC,G149
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_8 (4).jpg,HSIL,LBC,G150
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_8 (5).jpg,HSIL,LBC,G151
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_8 (6).jpg,HSIL,LBC,G152
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_8 (7).jpg,HSIL,LBC,G153
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_8 (8).jpg,HSIL,LBC,G154
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_8 (9).jpg,HSIL,LBC,G155
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_9 (1).jpg,HSIL,LBC,G156
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_9 (2).jpg,HSIL,LBC,G157
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_9 (3).jpg,HSIL,LBC,G158
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_9 (4).jpg,HSIL,LBC,G159
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_9 (5).jpg,HSIL,LBC,G160
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_9 (6).jpg,HSIL,LBC,G161
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/High squamous intra-epithelial lesion/HSIL_9 (7).jpg,HSIL,LBC,G162
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (1).jpg,LSIL,LBC,G163
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (10).jpg,LSIL,LBC,G164
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (11).jpg,LSIL,LBC,G165
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (12).jpg,LSIL,LBC,G166
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (13).jpg,LSIL,LBC,G167
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (14).jpg,LSIL,LBC,G168
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (15).jpg,LSIL,LBC,G169
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (16).jpg,LSIL,LBC,G170
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (17).jpg,LSIL,LBC,G171
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (18).jpg,LSIL,LBC,G172
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (19).jpg,LSIL,LBC,G173
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (2).jpg,LSIL,LBC,G174
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (20).jpg,LSIL,LBC,G175
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (21).jpg,LSIL,LBC,G176
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (22).jpg,LSIL,LBC,G177
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (23).jpg,LSIL,LBC,G178
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (24).jpg,LSIL,LBC,G179
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (25).jpg,LSIL,LBC,G180
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (26).jpg,LSIL,LBC,G181
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (27).jpg,LSIL,LBC,G182
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (3).jpg,LSIL,LBC,G183
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (4).jpg,LSIL,LBC,G184
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (5).jpg,LSIL,LBC,G185
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (6).jpg,LSIL,LBC,G186
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (7).jpg,LSIL,LBC,G187
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (8).jpg,LSIL,LBC,G188
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_1 (9).jpg,LSIL,LBC,G189
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (1).jpg,LSIL,LBC,G190
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (10).jpg,LSIL,LBC,G191
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (11).jpg,LSIL,LBC,G192
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (12).jpg,LSIL,LBC,G193
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (13).jpg,LSIL,LBC,G194
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (14).jpg,LSIL,LBC,G195
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (15).jpg,LSIL,LBC,G196
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (16).jpg,LSIL,LBC,G197
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (17).jpg,LSIL,LBC,G198
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (18).jpg,LSIL,LBC,G199
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (19).jpg,LSIL,LBC,G200
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (2).jpg,LSIL,LBC,G201
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (20).jpg,LSIL,LBC,G202
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (21).jpg,LSIL,LBC,G203
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (3).jpg,LSIL,LBC,G204
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (4).jpg,LSIL,LBC,G205
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (5).jpg,LSIL,LBC,G206
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (6).jpg,LSIL,LBC,G207
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (7).jpg,LSIL,LBC,G208
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (8).jpg,LSIL,LBC,G209
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_2 (9).jpg,LSIL,LBC,G210
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (1).jpg,LSIL,LBC,G211
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (10).jpg,LSIL,LBC,G212
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (11).jpg,LSIL,LBC,G213
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (12).jpg,LSIL,LBC,G214
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (13).jpg,LSIL,LBC,G215
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (14).jpg,LSIL,LBC,G216
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (15).jpg,LSIL,LBC,G217
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (16).jpg,LSIL,LBC,G218
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (17).jpg,LSIL,LBC,G219
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (18).jpg,LSIL,LBC,G220
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (19).jpg,LSIL,LBC,G221
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (2).jpg,LSIL,LBC,G222
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (20).jpg,LSIL,LBC,G223
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (21).jpg,LSIL,LBC,G224
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (22).jpg,LSIL,LBC,G225
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (23).jpg,LSIL,LBC,G226
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (24).jpg,LSIL,LBC,G227
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (25).jpg,LSIL,LBC,G228
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (26).jpg,LSIL,LBC,G229
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (27).jpg,LSIL,LBC,G230
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (28).jpg,LSIL,LBC,G231
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (3).jpg,LSIL,LBC,G232
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (4).jpg,LSIL,LBC,G233
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (5).jpg,LSIL,LBC,G234
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (6).jpg,LSIL,LBC,G235
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (7).jpg,LSIL,LBC,G236
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (8).jpg,LSIL,LBC,G237
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_3 (9).jpg,LSIL,LBC,G238
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (1).jpg,LSIL,LBC,G239
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (10).jpg,LSIL,LBC,G240
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (11).jpg,LSIL,LBC,G241
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (12).jpg,LSIL,LBC,G242
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (13).jpg,LSIL,LBC,G243
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (14).jpg,LSIL,LBC,G244
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (15).jpg,LSIL,LBC,G245
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (16).jpg,LSIL,LBC,G246
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (17).jpg,LSIL,LBC,G247
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (18).jpg,LSIL,LBC,G248
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (19).jpg,LSIL,LBC,G249
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (2).jpg,LSIL,LBC,G250
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (20).jpg,LSIL,LBC,G251
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (21).jpg,LSIL,LBC,G252
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (22).jpg,LSIL,LBC,G253
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (23).jpg,LSIL,LBC,G254
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (24).jpg,LSIL,LBC,G255
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (25).jpg,LSIL,LBC,G256
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (26).jpg,LSIL,LBC,G257
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (27).jpg,LSIL,LBC,G258
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (28).jpg,LSIL,LBC,G259
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (29).jpg,LSIL,LBC,G260
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (3).jpg,LSIL,LBC,G261
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (30).jpg,LSIL,LBC,G262
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (31).jpg,LSIL,LBC,G263
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (32).jpg,LSIL,LBC,G264
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (33).jpg,LSIL,LBC,G265
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (34).jpg,LSIL,LBC,G266
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (35).jpg,LSIL,LBC,G267
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (36).jpg,LSIL,LBC,G268
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (37).jpg,LSIL,LBC,G269
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (4).jpg,LSIL,LBC,G270
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (5).jpg,LSIL,LBC,G271
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (6).jpg,LSIL,LBC,G272
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (7).jpg,LSIL,LBC,G273
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (8).jpg,LSIL,LBC,G274
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Low squamous intra-epithelial lesion/LSIL_4 (9).jpg,LSIL,LBC,G275
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_10_ (1).jpg,NILM,LBC,G276
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_10_ (10).jpg,NILM,LBC,G277
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_10_ (11).jpg,NILM,LBC,G278
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_10_ (12).jpg,NILM,LBC,G279
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_10_ (13).jpg,NILM,LBC,G280
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_10_ (14).jpg,NILM,LBC,G281
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_10_ (15).jpg,NILM,LBC,G282
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_10_ (2).jpg,NILM,LBC,G283
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_10_ (3).jpg,NILM,LBC,G284
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_10_ (4).jpg,NILM,LBC,G285
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_10_ (5).jpg,NILM,LBC,G286
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_10_ (6).jpg,NILM,LBC,G287
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_10_ (7).jpg,NILM,LBC,G288
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_10_ (8).jpg,NILM,LBC,G289
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_10_ (9).jpg,NILM,LBC,G290
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_11_ (1).jpg,NILM,LBC,G291
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_11_ (10).jpg,NILM,LBC,G292
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_11_ (11).jpg,NILM,LBC,G293
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_11_ (12).jpg,NILM,LBC,G294
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_11_ (13).jpg,NILM,LBC,G295
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_11_ (14).jpg,NILM,LBC,G296
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_11_ (15).jpg,NILM,LBC,G297
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_11_ (2).jpg,NILM,LBC,G298
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_11_ (3).jpg,NILM,LBC,G299
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_11_ (4).jpg,NILM,LBC,G300
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_11_ (5).jpg,NILM,LBC,G301
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_11_ (6).jpg,NILM,LBC,G302
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_11_ (7).jpg,NILM,LBC,G303
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_11_ (8).jpg,NILM,LBC,G304
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_11_ (9).jpg,NILM,LBC,G305
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (1).jpg,NILM,LBC,G306
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (10).jpg,NILM,LBC,G307
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (11).jpg,NILM,LBC,G308
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (12).jpg,NILM,LBC,G309
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (13).jpg,NILM,LBC,G310
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (14).jpg,NILM,LBC,G311
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (15).jpg,NILM,LBC,G312
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (16).jpg,NILM,LBC,G313
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (2).jpg,NILM,LBC,G314
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (3).jpg,NILM,LBC,G315
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (4).jpg,NILM,LBC,G316
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (5).jpg,NILM,LBC,G317
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (6).jpg,NILM,LBC,G318
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (7).jpg,NILM,LBC,G319
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (8).jpg,NILM,LBC,G320
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_12_ (9).jpg,NILM,LBC,G321
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_13_ (1).jpg,NILM,LBC,G322
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_13_ (10).jpg,NILM,LBC,G323
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_13_ (11).jpg,NILM,LBC,G324
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_13_ (12).jpg,NILM,LBC,G325
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_13_ (13).jpg,NILM,LBC,G326
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_13_ (14).jpg,NILM,LBC,G327
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_13_ (15).jpg,NILM,LBC,G328
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_13_ (2).jpg,NILM,LBC,G329
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_13_ (3).jpg,NILM,LBC,G330
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_13_ (4).jpg,NILM,LBC,G331
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_13_ (5).jpg,NILM,LBC,G332
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_13_ (6).jpg,NILM,LBC,G333
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_13_ (7).jpg,NILM,LBC,G334
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_13_ (8).jpg,NILM,LBC,G335
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_13_ (9).jpg,NILM,LBC,G336
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (1).jpg,NILM,LBC,G337
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (10).jpg,NILM,LBC,G338
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (11).jpg,NILM,LBC,G339
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (12).jpg,NILM,LBC,G340
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (13).jpg,NILM,LBC,G341
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (14).jpg,NILM,LBC,G342
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (15).jpg,NILM,LBC,G343
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (16).jpg,NILM,LBC,G344
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (17).jpg,NILM,LBC,G345
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (18).jpg,NILM,LBC,G346
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (19).jpg,NILM,LBC,G347
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (2).jpg,NILM,LBC,G348
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (20).jpg,NILM,LBC,G349
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (21).jpg,NILM,LBC,G350
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (22).jpg,NILM,LBC,G351
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (23).jpg,NILM,LBC,G352
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (24).jpg,NILM,LBC,G353
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (25).jpg,NILM,LBC,G354
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (3).jpg,NILM,LBC,G355
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (4).jpg,NILM,LBC,G356
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (5).jpg,NILM,LBC,G357
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (6).jpg,NILM,LBC,G358
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (7).jpg,NILM,LBC,G359
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (8).jpg,NILM,LBC,G360
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_14_ (9).jpg,NILM,LBC,G361
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_15_ (1).jpg,NILM,LBC,G362
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_15_ (10).jpg,NILM,LBC,G363
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_15_ (11).jpg,NILM,LBC,G364
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_15_ (12).jpg,NILM,LBC,G365
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_15_ (13).jpg,NILM,LBC,G366
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_15_ (14).jpg,NILM,LBC,G367
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_15_ (15).jpg,NILM,LBC,G368
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_15_ (2).jpg,NILM,LBC,G369
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_15_ (3).jpg,NILM,LBC,G370
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_15_ (4).jpg,NILM,LBC,G371
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_15_ (5).jpg,NILM,LBC,G372
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_15_ (6).jpg,NILM,LBC,G373
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_15_ (7).jpg,NILM,LBC,G374
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_15_ (8).jpg,NILM,LBC,G375
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_15_ (9).jpg,NILM,LBC,G376
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_16_ (1).jpg,NILM,LBC,G377
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_16_ (10).jpg,NILM,LBC,G378
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_16_ (11).jpg,NILM,LBC,G379
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_16_ (12).jpg,NILM,LBC,G380
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_16_ (13).jpg,NILM,LBC,G381
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_16_ (14).jpg,NILM,LBC,G382
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_16_ (15).jpg,NILM,LBC,G383
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_16_ (2).jpg,NILM,LBC,G384
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_16_ (3).jpg,NILM,LBC,G385
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_16_ (4).jpg,NILM,LBC,G386
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_16_ (5).jpg,NILM,LBC,G387
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_16_ (6).jpg,NILM,LBC,G388
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_16_ (7).jpg,NILM,LBC,G389
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_16_ (8).jpg,NILM,LBC,G390
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_16_ (9).jpg,NILM,LBC,G391
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_17_ (1).jpg,NILM,LBC,G392
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_17_ (10).jpg,NILM,LBC,G393
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_17_ (11).jpg,NILM,LBC,G394
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_17_ (12).jpg,NILM,LBC,G395
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_17_ (13).jpg,NILM,LBC,G396
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_17_ (14).jpg,NILM,LBC,G397
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_17_ (15).jpg,NILM,LBC,G398
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_17_ (2).jpg,NILM,LBC,G399
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_17_ (3).jpg,NILM,LBC,G400
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_17_ (4).jpg,NILM,LBC,G401
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_17_ (5).jpg,NILM,LBC,G402
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_17_ (6).jpg,NILM,LBC,G403
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_17_ (7).jpg,NILM,LBC,G404
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_17_ (8).jpg,NILM,LBC,G405
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_17_ (9).jpg,NILM,LBC,G406
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (1).jpg,NILM,LBC,G407
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (10).jpg,NILM,LBC,G408
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (11).jpg,NILM,LBC,G409
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (12).jpg,NILM,LBC,G410
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (13).jpg,NILM,LBC,G411
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (14).jpg,NILM,LBC,G412
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (15).jpg,NILM,LBC,G413
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (16).jpg,NILM,LBC,G414
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (17).jpg,NILM,LBC,G415
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (18).jpg,NILM,LBC,G416
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (19).jpg,NILM,LBC,G417
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (2).jpg,NILM,LBC,G418
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (20).jpg,NILM,LBC,G419
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (21).jpg,NILM,LBC,G420
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (3).jpg,NILM,LBC,G421
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (4).jpg,NILM,LBC,G422
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (5).jpg,NILM,LBC,G423
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (6).jpg,NILM,LBC,G424
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (7).jpg,NILM,LBC,G425
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (8).jpg,NILM,LBC,G426
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_18_ (9).jpg,NILM,LBC,G427
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_19_ (1).jpg,NILM,LBC,G428
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_19_ (10).jpg,NILM,LBC,G429
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_19_ (2).jpg,NILM,LBC,G430
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_19_ (3).jpg,NILM,LBC,G431
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_19_ (4).jpg,NILM,LBC,G432
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_19_ (5).jpg,NILM,LBC,G433
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_19_ (6).jpg,NILM,LBC,G434
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_19_ (7).jpg,NILM,LBC,G435
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_19_ (8).jpg,NILM,LBC,G436
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_19_ (9).jpg,NILM,LBC,G437
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (1).jpg,NILM,LBC,G438
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (10).jpg,NILM,LBC,G439
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (11).jpg,NILM,LBC,G440
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (12).jpg,NILM,LBC,G441
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (13).jpg,NILM,LBC,G442
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (14).jpg,NILM,LBC,G443
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (15).jpg,NILM,LBC,G444
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (16).jpg,NILM,LBC,G445
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (17).jpg,NILM,LBC,G446
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (18).jpg,NILM,LBC,G447
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (19).jpg,NILM,LBC,G448
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (2).jpg,NILM,LBC,G449
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (20).jpg,NILM,LBC,G450
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (4).jpg,NILM,LBC,G451
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (5).jpg,NILM,LBC,G452
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (6).jpg,NILM,LBC,G453
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (7).jpg,NILM,LBC,G454
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (8).jpg,NILM,LBC,G455
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_1_ (9).jpg,NILM,LBC,G456
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_20_ (1).jpg,NILM,LBC,G457
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_20_ (2).jpg,NILM,LBC,G458
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (1).jpg,NILM,LBC,G459
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (10).jpg,NILM,LBC,G460
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (11).jpg,NILM,LBC,G461
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (12).jpg,NILM,LBC,G462
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (13).jpg,NILM,LBC,G463
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (14).jpg,NILM,LBC,G464
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (15).jpg,NILM,LBC,G465
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (2).jpg,NILM,LBC,G469
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (3).jpg,NILM,LBC,G467
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (4).jpg,NILM,LBC,G468
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (5).jpg,NILM,LBC,G469
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (6).jpg,NILM,LBC,G470
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (7).jpg,NILM,LBC,G471
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (8).jpg,NILM,LBC,G472
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (9).jpg,NILM,LBC,G473
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_22_ (1).jpg,NILM,LBC,G474
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_22_ (10).jpg,NILM,LBC,G475
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_22_ (11).jpg,NILM,LBC,G476
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_22_ (12).jpg,NILM,LBC,G477
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_22_ (13).jpg,NILM,LBC,G478
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_22_ (14).jpg,NILM,LBC,G479
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_22_ (15).jpg,NILM,LBC,G480
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_22_ (2).jpg,NILM,LBC,G481
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_22_ (3).jpg,NILM,LBC,G482
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_22_ (4).jpg,NILM,LBC,G483
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_22_ (5).jpg,NILM,LBC,G484
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_22_ (6).jpg,NILM,LBC,G485
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_22_ (7).jpg,NILM,LBC,G486
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_22_ (8).jpg,NILM,LBC,G487
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_22_ (9).jpg,NILM,LBC,G488
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_23_ (1).jpg,NILM,LBC,G489
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_23_ (10).jpg,NILM,LBC,G490
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_23_ (2).jpg,NILM,LBC,G491
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_23_ (3).jpg,NILM,LBC,G492
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_23_ (4).jpg,NILM,LBC,G493
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_23_ (5).jpg,NILM,LBC,G494
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_23_ (6).jpg,NILM,LBC,G495
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_23_ (7).jpg,NILM,LBC,G496
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_23_ (8).jpg,NILM,LBC,G497
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_23_ (9).jpg,NILM,LBC,G498
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_24_ (1).jpg,NILM,LBC,G499
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_24_ (10).jpg,NILM,LBC,G500
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_24_ (2).jpg,NILM,LBC,G501
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_24_ (3).jpg,NILM,LBC,G502
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_24_ (4).jpg,NILM,LBC,G503
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_24_ (5).jpg,NILM,LBC,G504
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_24_ (6).jpg,NILM,LBC,G505
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_24_ (7).jpg,NILM,LBC,G506
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_24_ (8).jpg,NILM,LBC,G507
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_24_ (9).jpg,NILM,LBC,G508
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_25_ (1).jpg,NILM,LBC,G509
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_25_ (10).jpg,NILM,LBC,G510
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_25_ (2).jpg,NILM,LBC,G511
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_25_ (3).jpg,NILM,LBC,G512
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_25_ (4).jpg,NILM,LBC,G513
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_25_ (5).jpg,NILM,LBC,G514
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_25_ (6).jpg,NILM,LBC,G515
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_25_ (7).jpg,NILM,LBC,G516
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_25_ (8).jpg,NILM,LBC,G517
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_25_ (9).jpg,NILM,LBC,G518
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_26_ (1).jpg,NILM,LBC,G519
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_26_ (10).jpg,NILM,LBC,G520
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_26_ (11).jpg,NILM,LBC,G521
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_26_ (12).jpg,NILM,LBC,G522
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_26_ (13).jpg,NILM,LBC,G523
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_26_ (14).jpg,NILM,LBC,G524
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_26_ (15).jpg,NILM,LBC,G525
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_26_ (2).jpg,NILM,LBC,G526
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_26_ (3).jpg,NILM,LBC,G527
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_26_ (4).jpg,NILM,LBC,G528
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_26_ (5).jpg,NILM,LBC,G529
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_26_ (6).jpg,NILM,LBC,G530
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_26_ (7).jpg,NILM,LBC,G531
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_26_ (8).jpg,NILM,LBC,G532
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_26_ (9).jpg,NILM,LBC,G533
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_27_ (1).jpg,NILM,LBC,G534
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_27_ (2).jpg,NILM,LBC,G535
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_27_ (3).jpg,NILM,LBC,G536
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_27_ (4).jpg,NILM,LBC,G537
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_27_ (5).jpg,NILM,LBC,G538
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_28_ (1).jpg,NILM,LBC,G539
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_28_ (10).jpg,NILM,LBC,G540
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_28_ (11).jpg,NILM,LBC,G541
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_28_ (12).jpg,NILM,LBC,G542
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_28_ (13).jpg,NILM,LBC,G543
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_28_ (14).jpg,NILM,LBC,G544
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_28_ (15).jpg,NILM,LBC,G545
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_28_ (2).jpg,NILM,LBC,G546
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_28_ (3).jpg,NILM,LBC,G547
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_28_ (4).jpg,NILM,LBC,G548
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_28_ (5).jpg,NILM,LBC,G549
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_28_ (6).jpg,NILM,LBC,G550
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_28_ (7).jpg,NILM,LBC,G551
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_28_ (8).jpg,NILM,LBC,G552
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_28_ (9).jpg,NILM,LBC,G553
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_29_ (1).jpg,NILM,LBC,G554
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_29_ (10).jpg,NILM,LBC,G555
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_29_ (11).jpg,NILM,LBC,G556
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_29_ (12).jpg,NILM,LBC,G557
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_29_ (13).jpg,NILM,LBC,G558
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_29_ (14).jpg,NILM,LBC,G559
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_29_ (15).jpg,NILM,LBC,G560
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_29_ (2).jpg,NILM,LBC,G561
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_29_ (3).jpg,NILM,LBC,G562
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_29_ (4).jpg,NILM,LBC,G563
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_29_ (5).jpg,NILM,LBC,G564
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_29_ (6).jpg,NILM,LBC,G565
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_29_ (7).jpg,NILM,LBC,G566
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_29_ (8).jpg,NILM,LBC,G567
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_29_ (9).jpg,NILM,LBC,G568
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (1).jpg,NILM,LBC,G569
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (10).jpg,NILM,LBC,G570
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (11).jpg,NILM,LBC,G571
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (12).jpg,NILM,LBC,G572
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (13).jpg,NILM,LBC,G573
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (14).jpg,NILM,LBC,G574
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (15).jpg,NILM,LBC,G575
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (16).jpg,NILM,LBC,G576
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (17).jpg,NILM,LBC,G577
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (18).jpg,NILM,LBC,G578
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (19).jpg,NILM,LBC,G579
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (2).jpg,NILM,LBC,G580
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (20).jpg,NILM,LBC,G581
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (3).jpg,NILM,LBC,G582
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (4).jpg,NILM,LBC,G583
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (5).jpg,NILM,LBC,G585
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (6).jpg,NILM,LBC,G585
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (7).jpg,NILM,LBC,G586
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (8).jpg,NILM,LBC,G587
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (9).jpg,NILM,LBC,G588
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_30_ (1).jpg,NILM,LBC,G589
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_30_ (10).jpg,NILM,LBC,G590
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_30_ (2).jpg,NILM,LBC,G591
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_30_ (3).jpg,NILM,LBC,G592
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_30_ (4).jpg,NILM,LBC,G593
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_30_ (5).jpg,NILM,LBC,G594
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_30_ (6).jpg,NILM,LBC,G595
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_30_ (7).jpg,NILM,LBC,G596
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_30_ (8).jpg,NILM,LBC,G597
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_30_ (9).jpg,NILM,LBC,G598
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_31_ (1).jpg,NILM,LBC,G599
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_31_ (2).jpg,NILM,LBC,G600
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_31_ (3).jpg,NILM,LBC,G601
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_31_ (4).jpg,NILM,LBC,G602
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_31_ (5).jpg,NILM,LBC,G603
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_32_ (1).jpg,NILM,LBC,G604
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_32_ (10).jpg,NILM,LBC,G605
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_32_ (11).jpg,NILM,LBC,G606
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_32_ (12).jpg,NILM,LBC,G607
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_32_ (13).jpg,NILM,LBC,G608
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_32_ (14).jpg,NILM,LBC,G609
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_32_ (15).jpg,NILM,LBC,G610
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_32_ (2).jpg,NILM,LBC,G611
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_32_ (3).jpg,NILM,LBC,G612
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_32_ (4).jpg,NILM,LBC,G613
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_32_ (5).jpg,NILM,LBC,G614
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_32_ (6).jpg,NILM,LBC,G615
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_32_ (7).jpg,NILM,LBC,G616
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_32_ (8).jpg,NILM,LBC,G617
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_32_ (9).jpg,NILM,LBC,G618
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_33_ (1).jpg,NILM,LBC,G619
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_33_ (10).jpg,NILM,LBC,G620
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_33_ (11).jpg,NILM,LBC,G621
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_33_ (12).jpg,NILM,LBC,G622
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_33_ (13).jpg,NILM,LBC,G623
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_33_ (14).jpg,NILM,LBC,G624
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_33_ (15).jpg,NILM,LBC,G625
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_33_ (2).jpg,NILM,LBC,G626
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_33_ (3).jpg,NILM,LBC,G627
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_33_ (4).jpg,NILM,LBC,G628
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_33_ (5).jpg,NILM,LBC,G629
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_33_ (6).jpg,NILM,LBC,G630
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_33_ (7).jpg,NILM,LBC,G631
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_33_ (8).jpg,NILM,LBC,G632
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_33_ (9).jpg,NILM,LBC,G633
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_34_ (1).jpg,NILM,LBC,G634
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_34_ (10).jpg,NILM,LBC,G635
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_34_ (11).jpg,NILM,LBC,G636
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_34_ (12).jpg,NILM,LBC,G637
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_34_ (13).jpg,NILM,LBC,G638
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_34_ (14).jpg,NILM,LBC,G639
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_34_ (15).jpg,NILM,LBC,G640
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_34_ (2).jpg,NILM,LBC,G641
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_34_ (3).jpg,NILM,LBC,G642
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_34_ (4).jpg,NILM,LBC,G643
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_34_ (5).jpg,NILM,LBC,G644
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_34_ (6).jpg,NILM,LBC,G645
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_34_ (7).jpg,NILM,LBC,G646
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_34_ (8).jpg,NILM,LBC,G647
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_34_ (9).jpg,NILM,LBC,G648
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (1).jpg,NILM,LBC,G649
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (10).jpg,NILM,LBC,G650
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (11).jpg,NILM,LBC,G651
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (12).jpg,NILM,LBC,G652
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (13).jpg,NILM,LBC,G653
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (14).jpg,NILM,LBC,G654
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (15).jpg,NILM,LBC,G655
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (16).jpg,NILM,LBC,G656
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (17).jpg,NILM,LBC,G657
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (2).jpg,NILM,LBC,G658
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (3).jpg,NILM,LBC,G659
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (4).jpg,NILM,LBC,G660
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (5).jpg,NILM,LBC,G661
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (6).jpg,NILM,LBC,G662
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (7).jpg,NILM,LBC,G663
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (8).jpg,NILM,LBC,G664
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_35_ (9).jpg,NILM,LBC,G665
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (1).jpg,NILM,LBC,G666
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (10).jpg,NILM,LBC,G667
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (11).jpg,NILM,LBC,G668
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (12).jpg,NILM,LBC,G669
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (13).jpg,NILM,LBC,G670
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (14).jpg,NILM,LBC,G671
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (15).jpg,NILM,LBC,G672
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (16).jpg,NILM,LBC,G673
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (17).jpg,NILM,LBC,G674
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (18).jpg,NILM,LBC,G675
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (19).jpg,NILM,LBC,G676
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (2).jpg,NILM,LBC,G677
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (20).jpg,NILM,LBC,G678
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (3).jpg,NILM,LBC,G679
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (4).jpg,NILM,LBC,G680
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (5).jpg,NILM,LBC,G681
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (6).jpg,NILM,LBC,G682
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (7).jpg,NILM,LBC,G683
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (8).jpg,NILM,LBC,G684
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_36_ (9).jpg,NILM,LBC,G685
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (1).jpg,NILM,LBC,G686
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (10).jpg,NILM,LBC,G687
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (11).jpg,NILM,LBC,G688
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (12).jpg,NILM,LBC,G689
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (13).jpg,NILM,LBC,G690
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (14).jpg,NILM,LBC,G691
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (15).jpg,NILM,LBC,G692
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (16).jpg,NILM,LBC,G693
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (17).jpg,NILM,LBC,G694
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (18).jpg,NILM,LBC,G695
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (2).jpg,NILM,LBC,G696
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (3).jpg,NILM,LBC,G697
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (4).jpg,NILM,LBC,G698
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (5).jpg,NILM,LBC,G699
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (6).jpg,NILM,LBC,G700
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (7).jpg,NILM,LBC,G701
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (8).jpg,NILM,LBC,G702
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_37_ (9).jpg,NILM,LBC,G703
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (1).jpg,NILM,LBC,G704
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (10).jpg,NILM,LBC,G705
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (11).jpg,NILM,LBC,G706
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (12).jpg,NILM,LBC,G707
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (13).jpg,NILM,LBC,G708
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (14).jpg,NILM,LBC,G709
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (15).jpg,NILM,LBC,G710
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (16).jpg,NILM,LBC,G711
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (2).jpg,NILM,LBC,G712
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (3).jpg,NILM,LBC,G713
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (4).jpg,NILM,LBC,G714
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (5).jpg,NILM,LBC,G715
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (6).jpg,NILM,LBC,G716
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (7).jpg,NILM,LBC,G717
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (8).jpg,NILM,LBC,G718
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_38_ (9).jpg,NILM,LBC,G719
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (1).jpg,NILM,LBC,G720
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (10).jpg,NILM,LBC,G721
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (11).jpg,NILM,LBC,G722
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (12).jpg,NILM,LBC,G723
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (13).jpg,NILM,LBC,G724
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (14).jpg,NILM,LBC,G725
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (15).jpg,NILM,LBC,G726
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (16).jpg,NILM,LBC,G727
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (2).jpg,NILM,LBC,G728
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (3).jpg,NILM,LBC,G729
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (4).jpg,NILM,LBC,G730
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (5).jpg,NILM,LBC,G731
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (6).jpg,NILM,LBC,G732
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (7).jpg,NILM,LBC,G733
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (8).jpg,NILM,LBC,G734
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_39_ (9).jpg,NILM,LBC,G735
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_3_ (1).jpg,NILM,LBC,G736
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_3_ (10).jpg,NILM,LBC,G737
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_3_ (11).jpg,NILM,LBC,G738
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_3_ (12).jpg,NILM,LBC,G739
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_3_ (13).jpg,NILM,LBC,G740
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_3_ (14).jpg,NILM,LBC,G741
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_3_ (15).jpg,NILM,LBC,G742
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_3_ (2).jpg,NILM,LBC,G743
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_3_ (3).jpg,NILM,LBC,G744
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_3_ (4).jpg,NILM,LBC,G745
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_3_ (5).jpg,NILM,LBC,G746
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_3_ (6).jpg,NILM,LBC,G747
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_3_ (7).jpg,NILM,LBC,G748
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_3_ (8).jpg,NILM,LBC,G749
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_3_ (9).jpg,NILM,LBC,G750
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_40_ (1).jpg,NILM,LBC,G751
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_40_ (10).jpg,NILM,LBC,G752
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_40_ (11).jpg,NILM,LBC,G753
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_40_ (12).jpg,NILM,LBC,G754
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_40_ (13).jpg,NILM,LBC,G755
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_40_ (14).jpg,NILM,LBC,G756
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_40_ (15).jpg,NILM,LBC,G757
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_40_ (2).jpg,NILM,LBC,G758
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_40_ (3).jpg,NILM,LBC,G759
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_40_ (4).jpg,NILM,LBC,G760
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_40_ (5).jpg,NILM,LBC,G761
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_40_ (6).jpg,NILM,LBC,G762
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_40_ (7).jpg,NILM,LBC,G763
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_40_ (8).jpg,NILM,LBC,G764
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_40_ (9).jpg,NILM,LBC,G765
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (1).jpg,NILM,LBC,G766
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (10).jpg,NILM,LBC,G767
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (11).jpg,NILM,LBC,G768
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (12).jpg,NILM,LBC,G769
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (13).jpg,NILM,LBC,G770
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (14).jpg,NILM,LBC,G771
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (15).jpg,NILM,LBC,G772
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (16).jpg,NILM,LBC,G773
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (2).jpg,NILM,LBC,G774
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (3).jpg,NILM,LBC,G775
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (4).jpg,NILM,LBC,G776
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (5).jpg,NILM,LBC,G777
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (6).jpg,NILM,LBC,G778
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (7).jpg,NILM,LBC,G779
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (8).jpg,NILM,LBC,G780
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_41_ (9).jpg,NILM,LBC,G781
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (1).jpg,NILM,LBC,G782
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (10).jpg,NILM,LBC,G783
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (11).jpg,NILM,LBC,G784
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (12).jpg,NILM,LBC,G785
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (13).jpg,NILM,LBC,G786
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (14).jpg,NILM,LBC,G787
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (15).jpg,NILM,LBC,G788
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (16).jpg,NILM,LBC,G789
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (17).jpg,NILM,LBC,G790
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (2).jpg,NILM,LBC,G791
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (3).jpg,NILM,LBC,G792
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (4).jpg,NILM,LBC,G793
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (5).jpg,NILM,LBC,G794
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (6).jpg,NILM,LBC,G795
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (7).jpg,NILM,LBC,G796
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (8).jpg,NILM,LBC,G797
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_42_ (9).jpg,NILM,LBC,G798
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_43_ (1).jpg,NILM,LBC,G799
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_43_ (10).jpg,NILM,LBC,G800
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_43_ (11).jpg,NILM,LBC,G801
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_43_ (12).jpg,NILM,LBC,G802
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_43_ (13).jpg,NILM,LBC,G803
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_43_ (14).jpg,NILM,LBC,G804
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_43_ (15).jpg,NILM,LBC,G805
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_43_ (2).jpg,NILM,LBC,G806
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_43_ (3).jpg,NILM,LBC,G807
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_43_ (4).jpg,NILM,LBC,G808
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_43_ (5).jpg,NILM,LBC,G809
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_43_ (6).jpg,NILM,LBC,G810
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_43_ (7).jpg,NILM,LBC,G811
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_43_ (8).jpg,NILM,LBC,G812
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_43_ (9).jpg,NILM,LBC,G813
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_4_ (1).jpg,NILM,LBC,G814
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_4_ (2).jpg,NILM,LBC,G815
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_4_ (3).jpg,NILM,LBC,G816
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_4_ (4).jpg,NILM,LBC,G817
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_4_ (5).jpg,NILM,LBC,G818
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_4_ (6).jpg,NILM,LBC,G819
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_5_ (1).jpg,NILM,LBC,G820
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_5_ (10).jpg,NILM,LBC,G821
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_5_ (11).jpg,NILM,LBC,G822
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_5_ (12).jpg,NILM,LBC,G823
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_5_ (13).jpg,NILM,LBC,G824
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_5_ (14).jpg,NILM,LBC,G825
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_5_ (15).jpg,NILM,LBC,G826
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_5_ (2).jpg,NILM,LBC,G827
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_5_ (3).jpg,NILM,LBC,G828
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_5_ (4).jpg,NILM,LBC,G829
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_5_ (5).jpg,NILM,LBC,G830
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_5_ (6).jpg,NILM,LBC,G831
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_5_ (7).jpg,NILM,LBC,G832
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_5_ (8).jpg,NILM,LBC,G833
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_5_ (9).jpg,NILM,LBC,G834
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_6_ (1).jpg,NILM,LBC,G835
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_6_ (2).jpg,NILM,LBC,G836
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_6_ (3).jpg,NILM,LBC,G837
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_6_ (4).jpg,NILM,LBC,G838
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_6_ (5).jpg,NILM,LBC,G839
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_6_ (6).jpg,NILM,LBC,G840
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_6_ (7).jpg,NILM,LBC,G841
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (1).jpg,NILM,LBC,G842
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (10).jpg,NILM,LBC,G843
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (11).jpg,NILM,LBC,G844
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (12).jpg,NILM,LBC,G845
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (13).jpg,NILM,LBC,G846
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (14).jpg,NILM,LBC,G847
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (15).jpg,NILM,LBC,G848
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (16).jpg,NILM,LBC,G849
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (2).jpg,NILM,LBC,G850
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (3).jpg,NILM,LBC,G851
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (4).jpg,NILM,LBC,G852
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (5).jpg,NILM,LBC,G853
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (6).jpg,NILM,LBC,G854
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (7).jpg,NILM,LBC,G855
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (8).jpg,NILM,LBC,G856
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_7_ (9).jpg,NILM,LBC,G857
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_8_ (1).jpg,NILM,LBC,G858
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_8_ (10).jpg,NILM,LBC,G859
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_8_ (11).jpg,NILM,LBC,G860
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_8_ (12).jpg,NILM,LBC,G861
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_8_ (13).jpg,NILM,LBC,G862
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_8_ (14).jpg,NILM,LBC,G863
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_8_ (15).jpg,NILM,LBC,G864
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_8_ (2).jpg,NILM,LBC,G865
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_8_ (3).jpg,NILM,LBC,G866
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_8_ (4).jpg,NILM,LBC,G867
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_8_ (5).jpg,NILM,LBC,G868
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_8_ (6).jpg,NILM,LBC,G869
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_8_ (7).jpg,NILM,LBC,G870
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_8_ (8).jpg,NILM,LBC,G871
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_8_ (9).jpg,NILM,LBC,G872
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_9_ (1).jpg,NILM,LBC,G873
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_9_ (10).jpg,NILM,LBC,G874
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_9_ (11).jpg,NILM,LBC,G875
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_9_ (12).jpg,NILM,LBC,G876
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_9_ (13).jpg,NILM,LBC,G877
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_9_ (14).jpg,NILM,LBC,G878
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_9_ (15).jpg,NILM,LBC,G879
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_9_ (2).jpg,NILM,LBC,G880
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_9_ (3).jpg,NILM,LBC,G881
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_9_ (4).jpg,NILM,LBC,G882
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_9_ (5).jpg,NILM,LBC,G883
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_9_ (6).jpg,NILM,LBC,G884
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_9_ (7).jpg,NILM,LBC,G885
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_9_ (8).jpg,NILM,LBC,G886
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_9_ (9).jpg,NILM,LBC,G887
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_3 (1).jpg,SCC,LBC,G888
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_3 (10).jpg,SCC,LBC,G889
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_3 (11).jpg,SCC,LBC,G890
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_3 (2).jpg,SCC,LBC,G891
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_3 (3).jpg,SCC,LBC,G892
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_3 (4).jpg,SCC,LBC,G893
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_3 (5).jpg,SCC,LBC,G894
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_3 (6).jpg,SCC,LBC,G895
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_3 (7).jpg,SCC,LBC,G896
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_3 (8).jpg,SCC,LBC,G897
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_3 (9).jpg,SCC,LBC,G898
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_4 (1).jpg,SCC,LBC,G899
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_4 (10).jpg,SCC,LBC,G900
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_4 (11).jpg,SCC,LBC,G901
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_4 (12).jpg,SCC,LBC,G902
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_4 (13).jpg,SCC,LBC,G903
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_4 (14).jpg,SCC,LBC,G904
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_4 (15).jpg,SCC,LBC,G905
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_4 (2).jpg,SCC,LBC,G906
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_4 (3).jpg,SCC,LBC,G907
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_4 (4).jpg,SCC,LBC,G908
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_4 (5).jpg,SCC,LBC,G909
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_4 (6).jpg,SCC,LBC,G910
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_4 (7).jpg,SCC,LBC,G911
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_4 (8).jpg,SCC,LBC,G912
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/SCC_4 (9).jpg,SCC,LBC,G913
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (1).jpg,SCC,LBC,G1244
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (10).jpg,SCC,LBC,G1242
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (11).jpg,SCC,LBC,G916
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (12).jpg,SCC,LBC,G917
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (13).jpg,SCC,LBC,G918
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (14).jpg,SCC,LBC,G919
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (15).jpg,SCC,LBC,G920
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (16).jpg,SCC,LBC,G921
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (17).jpg,SCC,LBC,G922
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (18).jpg,SCC,LBC,G923
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (19).jpg,SCC,LBC,G924
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (2).jpg,SCC,LBC,G1245
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (20).jpg,SCC,LBC,G926
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (21).jpg,SCC,LBC,G927
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (3).jpg,SCC,LBC,G1246
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (4).jpg,SCC,LBC,G1247
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (5).jpg,SCC,LBC,G1248
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (6).jpg,SCC,LBC,G1249
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (7).jpg,SCC,LBC,G1250
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (8).jpg,SCC,LBC,G1252
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (9).jpg,SCC,LBC,G1243
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (1).jpg,SCC,LBC,G935
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (10).jpg,SCC,LBC,G936
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (11).jpg,SCC,LBC,G937
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (12).jpg,SCC,LBC,G938
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (13).jpg,SCC,LBC,G939
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (14).jpg,SCC,LBC,G1264
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (15).jpg,SCC,LBC,G1266
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (16).jpg,SCC,LBC,G1267
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (17).jpg,SCC,LBC,G1268
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (18).jpg,SCC,LBC,G1269
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (19).jpg,SCC,LBC,G1270
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (2).jpg,SCC,LBC,G946
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (20).jpg,SCC,LBC,G1271
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (21).jpg,SCC,LBC,G1272
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (22).jpg,SCC,LBC,G1274
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (23).jpg,SCC,LBC,G1265
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (24).jpg,SCC,LBC,G951
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (25).jpg,SCC,LBC,G952
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (26).jpg,SCC,LBC,G953
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (27).jpg,SCC,LBC,G954
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (3).jpg,SCC,LBC,G955
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (4).jpg,SCC,LBC,G956
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (5).jpg,SCC,LBC,G957
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (6).jpg,SCC,LBC,G958
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (7).jpg,SCC,LBC,G959
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (8).jpg,SCC,LBC,G960
+/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (9).jpg,SCC,LBC,G961
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/1.jpg,HSIL,Malhari,G962
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/10.jpg,HSIL,Malhari,G963
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/11.jpg,HSIL,Malhari,G964
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/12.jpg,HSIL,Malhari,G965
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/13.jpg,HSIL,Malhari,G966
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/14.jpg,HSIL,Malhari,G967
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/15.jpg,HSIL,Malhari,G968
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/16.jpg,HSIL,Malhari,G969
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/17.jpg,HSIL,Malhari,G970
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/18.jpg,HSIL,Malhari,G971
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/19.jpg,HSIL,Malhari,G972
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/2.jpg,HSIL,Malhari,G973
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/20.jpg,HSIL,Malhari,G974
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/21.jpg,HSIL,Malhari,G975
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/22.jpg,HSIL,Malhari,G976
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/23.jpg,HSIL,Malhari,G977
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/24.jpg,HSIL,Malhari,G978
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/25.jpg,HSIL,Malhari,G979
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/26.jpg,HSIL,Malhari,G980
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/27.jpg,HSIL,Malhari,G981
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/28.jpg,HSIL,Malhari,G982
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/29.jpg,HSIL,Malhari,G983
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/3.jpg,HSIL,Malhari,G984
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/30.jpg,HSIL,Malhari,G985
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/31.jpg,HSIL,Malhari,G986
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/32.jpg,HSIL,Malhari,G987
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/33.jpg,HSIL,Malhari,G988
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/34.jpg,HSIL,Malhari,G989
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/35.jpg,HSIL,Malhari,G990
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/36.jpg,HSIL,Malhari,G991
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/37.jpg,HSIL,Malhari,G992
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/38.jpg,HSIL,Malhari,G993
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/39.jpg,HSIL,Malhari,G994
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/4.jpg,HSIL,Malhari,G995
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/40.jpg,HSIL,Malhari,G996
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/5.jpg,HSIL,Malhari,G997
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/6.jpg,HSIL,Malhari,G998
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/7.jpg,HSIL,Malhari,G999
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/8.jpg,HSIL,Malhari,G1000
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/HSIL/9.jpg,HSIL,Malhari,G1001
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/1.jpg,LSIL,Malhari,G1002
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/10.jpg,LSIL,Malhari,G1003
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/11.jpg,LSIL,Malhari,G1004
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/12.jpg,LSIL,Malhari,G1005
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/13.jpg,LSIL,Malhari,G1006
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/14.jpg,LSIL,Malhari,G1007
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/15.jpg,LSIL,Malhari,G1008
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/16.jpg,LSIL,Malhari,G1009
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/17.jpg,LSIL,Malhari,G1010
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/18.jpg,LSIL,Malhari,G1011
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/19.jpg,LSIL,Malhari,G1012
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/2.jpg,LSIL,Malhari,G1121
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/20.jpg,LSIL,Malhari,G1014
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/21.jpg,LSIL,Malhari,G1015
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/22.jpg,LSIL,Malhari,G1016
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/23.jpg,LSIL,Malhari,G1017
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/24.jpg,LSIL,Malhari,G1018
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/25.jpg,LSIL,Malhari,G1019
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/26.jpg,LSIL,Malhari,G1020
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/27.jpg,LSIL,Malhari,G1021
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/28.jpg,LSIL,Malhari,G1022
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/29.jpg,LSIL,Malhari,G1023
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/3.jpg,LSIL,Malhari,G1126
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/30.jpg,LSIL,Malhari,G1025
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/31.jpg,LSIL,Malhari,G1026
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/32.jpg,LSIL,Malhari,G1027
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/33.jpg,LSIL,Malhari,G1028
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/34.jpg,LSIL,Malhari,G1029
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/35.jpg,LSIL,Malhari,G1030
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/36.jpg,LSIL,Malhari,G1031
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/37.jpg,LSIL,Malhari,G1032
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/38.jpg,LSIL,Malhari,G1033
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/39.jpg,LSIL,Malhari,G1034
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/4.jpg,LSIL,Malhari,G1035
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/40.jpg,LSIL,Malhari,G1036
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/41.jpg,LSIL,Malhari,G1037
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/42.jpg,LSIL,Malhari,G1038
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/43.jpg,LSIL,Malhari,G1039
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/44.jpg,LSIL,Malhari,G1040
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/45.jpg,LSIL,Malhari,G1041
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/46.jpg,LSIL,Malhari,G1042
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/47.jpg,LSIL,Malhari,G1043
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/48.jpg,LSIL,Malhari,G1044
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/49.jpg,LSIL,Malhari,G1045
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/5.jpg,LSIL,Malhari,G1046
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/50.jpg,LSIL,Malhari,G1047
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/51.jpg,LSIL,Malhari,G1064
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/52.jpg,LSIL,Malhari,G1049
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/53.jpg,LSIL,Malhari,G1050
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/54.jpg,LSIL,Malhari,G1062
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/55.jpg,LSIL,Malhari,G1061
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/56.jpg,LSIL,Malhari,G1063
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/57.jpg,LSIL,Malhari,G1065
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/58.jpg,LSIL,Malhari,G1055
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/59.jpg,LSIL,Malhari,G1056
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/6.jpg,LSIL,Malhari,G1057
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/60.jpg,LSIL,Malhari,G1058
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/61.jpg,LSIL,Malhari,G1059
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/62.jpg,LSIL,Malhari,G1060
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/63.jpg,LSIL,Malhari,G1061
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/64.jpg,LSIL,Malhari,G1062
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/65.jpg,LSIL,Malhari,G1063
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/66.jpg,LSIL,Malhari,G1064
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/67.jpg,LSIL,Malhari,G1065
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/68.jpg,LSIL,Malhari,G1066
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/69.jpg,LSIL,Malhari,G1067
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/7.jpg,LSIL,Malhari,G1068
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/70.jpg,LSIL,Malhari,G1069
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/71.jpg,LSIL,Malhari,G1070
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/72.jpg,LSIL,Malhari,G1071
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/73.jpg,LSIL,Malhari,G1072
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/74.jpg,LSIL,Malhari,G1073
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/75.jpg,LSIL,Malhari,G1074
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/76.jpg,LSIL,Malhari,G1075
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/77.jpg,LSIL,Malhari,G1076
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/78.jpg,LSIL,Malhari,G1077
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/79.jpg,LSIL,Malhari,G1078
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/8.jpg,LSIL,Malhari,G1079
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/80.jpg,LSIL,Malhari,G1080
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/9.jpg,LSIL,Malhari,G1081
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/1.jpg,NILM,Malhari,G1082
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/10.jpg,NILM,Malhari,G1083
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/100.jpg,NILM,Malhari,G1084
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/101.jpg,NILM,Malhari,G1085
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/102.jpg,NILM,Malhari,G1086
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/103.jpg,NILM,Malhari,G1087
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/104.jpg,NILM,Malhari,G1088
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/105.jpg,NILM,Malhari,G1089
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/106.jpg,NILM,Malhari,G1090
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/107.jpg,NILM,Malhari,G1091
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/108.jpg,NILM,Malhari,G1092
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/109.jpg,NILM,Malhari,G1093
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/11.jpg,NILM,Malhari,G1094
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/110.jpg,NILM,Malhari,G1095
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/111.jpg,NILM,Malhari,G1096
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/112.jpg,NILM,Malhari,G1097
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/113.jpg,NILM,Malhari,G1098
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/114.jpg,NILM,Malhari,G1099
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/115.jpg,NILM,Malhari,G1100
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/116.jpg,NILM,Malhari,G1101
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/117.jpg,NILM,Malhari,G1102
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/118.jpg,NILM,Malhari,G1103
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/119.jpg,NILM,Malhari,G1104
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/12.jpg,NILM,Malhari,G1105
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/120.jpg,NILM,Malhari,G1106
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/121.jpg,NILM,Malhari,G1107
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/122.jpg,NILM,Malhari,G1108
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/123.jpg,NILM,Malhari,G1109
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/124.jpg,NILM,Malhari,G1110
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/125.jpg,NILM,Malhari,G1111
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/126.jpg,NILM,Malhari,G1112
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/127.jpg,NILM,Malhari,G1113
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/128.jpg,NILM,Malhari,G1114
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/129.jpg,NILM,Malhari,G1115
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/13.jpg,NILM,Malhari,G1116
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/130.jpg,NILM,Malhari,G1117
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/131.jpg,NILM,Malhari,G1118
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/132.jpg,NILM,Malhari,G1119
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/133.jpg,NILM,Malhari,G1120
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/134.jpg,NILM,Malhari,G1121
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/135.jpg,NILM,Malhari,G1122
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/136.jpg,NILM,Malhari,G1123
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/137.jpg,NILM,Malhari,G1124
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/138.jpg,NILM,Malhari,G1125
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/139.jpg,NILM,Malhari,G1126
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/14.jpg,NILM,Malhari,G1127
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/140.jpg,NILM,Malhari,G1128
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/141.jpg,NILM,Malhari,G1129
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/142.jpg,NILM,Malhari,G1130
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/143.jpg,NILM,Malhari,G1131
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/144.jpg,NILM,Malhari,G1132
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/145.jpg,NILM,Malhari,G1133
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/146.jpg,NILM,Malhari,G1134
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/147.jpg,NILM,Malhari,G1135
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/148.jpg,NILM,Malhari,G1136
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/149.jpg,NILM,Malhari,G1137
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/15.jpg,NILM,Malhari,G1138
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/150.jpg,NILM,Malhari,G1139
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/151.jpg,NILM,Malhari,G1140
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/152.jpg,NILM,Malhari,G1141
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/153.jpg,NILM,Malhari,G1142
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/154.jpg,NILM,Malhari,G1143
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/155.jpg,NILM,Malhari,G1144
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/156.jpg,NILM,Malhari,G1145
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/157.jpg,NILM,Malhari,G1146
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/158.jpg,NILM,Malhari,G1147
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/16.jpg,NILM,Malhari,G1148
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/17.jpg,NILM,Malhari,G1149
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/18.jpg,NILM,Malhari,G1150
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/19.jpg,NILM,Malhari,G1151
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/2.jpg,NILM,Malhari,G1152
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/20.jpg,NILM,Malhari,G1153
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/21.jpg,NILM,Malhari,G1154
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/22.jpg,NILM,Malhari,G1155
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/23.jpg,NILM,Malhari,G1156
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/24.jpg,NILM,Malhari,G1157
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/25.jpg,NILM,Malhari,G1158
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/26.jpg,NILM,Malhari,G1159
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/27.jpg,NILM,Malhari,G1160
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/28.jpg,NILM,Malhari,G1161
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/29.jpg,NILM,Malhari,G1162
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/3.jpg,NILM,Malhari,G1163
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/30.jpg,NILM,Malhari,G1164
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/31.jpg,NILM,Malhari,G1165
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/32.jpg,NILM,Malhari,G1166
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/33.jpg,NILM,Malhari,G1167
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/34.jpg,NILM,Malhari,G1169
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/35.jpg,NILM,Malhari,G1169
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/36.jpg,NILM,Malhari,G1170
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/37.jpg,NILM,Malhari,G1171
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/38.jpg,NILM,Malhari,G1172
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/39.jpg,NILM,Malhari,G1193
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/4.jpg,NILM,Malhari,G1174
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/40.jpg,NILM,Malhari,G1195
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/41.jpg,NILM,Malhari,G1176
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/42.jpg,NILM,Malhari,G1177
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/43.jpg,NILM,Malhari,G1178
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/44.jpg,NILM,Malhari,G1179
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/45.jpg,NILM,Malhari,G1180
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/46.jpg,NILM,Malhari,G1181
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/47.jpg,NILM,Malhari,G1182
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/48.jpg,NILM,Malhari,G1183
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/49.jpg,NILM,Malhari,G1184
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/5.jpg,NILM,Malhari,G1185
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/50.jpg,NILM,Malhari,G1186
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/51.jpg,NILM,Malhari,G1187
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/52.jpg,NILM,Malhari,G1188
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/53.jpg,NILM,Malhari,G1189
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/54.jpg,NILM,Malhari,G1190
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/55.jpg,NILM,Malhari,G1191
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/56.jpg,NILM,Malhari,G1192
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/57.jpg,NILM,Malhari,G1193
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/58.jpg,NILM,Malhari,G1194
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/59.jpg,NILM,Malhari,G1195
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/6.jpg,NILM,Malhari,G1196
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/60.jpg,NILM,Malhari,G1197
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/61.jpg,NILM,Malhari,G1198
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/62.jpg,NILM,Malhari,G1199
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/63.jpg,NILM,Malhari,G1200
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/64.jpg,NILM,Malhari,G1201
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/65.jpg,NILM,Malhari,G1202
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/66.jpg,NILM,Malhari,G1203
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/67.jpg,NILM,Malhari,G1204
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/68.jpg,NILM,Malhari,G1205
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/69.jpg,NILM,Malhari,G1206
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/7.jpg,NILM,Malhari,G1207
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/70.jpg,NILM,Malhari,G1208
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/71.jpg,NILM,Malhari,G1209
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/72.jpg,NILM,Malhari,G1210
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/73.jpg,NILM,Malhari,G1211
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/74.jpg,NILM,Malhari,G1212
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/75.jpg,NILM,Malhari,G1213
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/76.jpg,NILM,Malhari,G1214
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/77.jpg,NILM,Malhari,G1215
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/78.jpg,NILM,Malhari,G1216
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/79.jpg,NILM,Malhari,G1217
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/8.jpg,NILM,Malhari,G1218
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/80.jpg,NILM,Malhari,G1219
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/81.jpg,NILM,Malhari,G1220
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/82.jpg,NILM,Malhari,G1221
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/83.jpg,NILM,Malhari,G1222
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/84.jpg,NILM,Malhari,G1223
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/85.jpg,NILM,Malhari,G1224
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/86.jpg,NILM,Malhari,G1225
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/87.jpg,NILM,Malhari,G1226
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/88.jpg,NILM,Malhari,G1227
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/89.jpg,NILM,Malhari,G1228
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/9.jpg,NILM,Malhari,G1229
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/90.jpg,NILM,Malhari,G1230
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/91.jpg,NILM,Malhari,G1231
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/92.jpg,NILM,Malhari,G1234
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/93.jpg,NILM,Malhari,G1233
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/94.jpg,NILM,Malhari,G1234
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/95.jpg,NILM,Malhari,G1235
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/96.jpg,NILM,Malhari,G1236
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/97.jpg,NILM,Malhari,G1237
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/98.jpg,NILM,Malhari,G1238
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/99.jpg,NILM,Malhari,G1239
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/1.jpg,SCC,Malhari,G1240
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/10.jpg,SCC,Malhari,G1241
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/11.jpg,SCC,Malhari,G1242
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/12.jpg,SCC,Malhari,G1243
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/13.jpg,SCC,Malhari,G1244
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/14.jpg,SCC,Malhari,G1245
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/15.jpg,SCC,Malhari,G1246
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/16.jpg,SCC,Malhari,G1247
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/17.jpg,SCC,Malhari,G1248
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/18.jpg,SCC,Malhari,G1249
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/19.jpg,SCC,Malhari,G1250
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/2.jpg,SCC,Malhari,G1251
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/20.jpg,SCC,Malhari,G1252
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/21.jpg,SCC,Malhari,G1253
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/22.jpg,SCC,Malhari,G1254
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/23.jpg,SCC,Malhari,G1255
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/24.jpg,SCC,Malhari,G1256
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/25.jpg,SCC,Malhari,G1257
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/26.jpg,SCC,Malhari,G1258
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/27.jpg,SCC,Malhari,G1259
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/28.jpg,SCC,Malhari,G1260
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/29.jpg,SCC,Malhari,G1261
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/3.jpg,SCC,Malhari,G1262
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/30.jpg,SCC,Malhari,G1263
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/31.jpg,SCC,Malhari,G1264
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/32.jpg,SCC,Malhari,G1265
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/33.jpg,SCC,Malhari,G1266
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/34.jpg,SCC,Malhari,G1267
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/35.jpg,SCC,Malhari,G1268
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/36.jpg,SCC,Malhari,G1269
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/37.jpg,SCC,Malhari,G1270
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/38.jpg,SCC,Malhari,G1271
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/39.jpg,SCC,Malhari,G1272
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/4.jpg,SCC,Malhari,G1273
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/40.jpg,SCC,Malhari,G1274
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/5.jpg,SCC,Malhari,G1275
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/6.jpg,SCC,Malhari,G1276
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/7.jpg,SCC,Malhari,G1277
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/8.jpg,SCC,Malhari,G1278
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/9.jpg,SCC,Malhari,G1279

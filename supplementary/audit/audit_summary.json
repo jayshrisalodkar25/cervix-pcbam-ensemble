@@ -1,0 +1,17 @@
+{
+ "n_images": 1280,
+ "pairs_exact": 29,
+ "pairs_phash": 4,
+ "pairs_within_LBC": 2,
+ "pairs_within_Malhari": 11,
+ "pairs_cross_dataset": 20,
+ "pairs_label_conflict": 2,
+ "groups_LBC": 960,
+ "groups_Malhari": 307,
+ "phash_hamming_threshold": 4,
+ "excluded_Malhari_dup_of_LBC": 20,
+ "excluded_label_conflict_LBC": 0,
+ "excluded_label_conflict_Malhari": 4,
+ "LBC_after_exclusion": 962,
+ "Malhari_after_exclusion": 294
+}

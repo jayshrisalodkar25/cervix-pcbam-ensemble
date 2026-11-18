@@ -1,0 +1,36 @@
+VALUES TO PASTE INTO THE ORANGE [placeholders] OF THE REVISED MANUSCRIPT
+========================================================================
+Status: all tasks finished = True
+Seeds finished per experiment: {'lbc_in': [0, 1, 2], 'lbc_sip': [0, 1, 2], 'lbc_in_da': [0, 1, 2], 'lbc_sip_da': [0, 1, 2], 'lbc_in_fs': [0, 1, 2], 'lbc_sip_fs': [0, 1, 2], 'merged_in': [0], 'merged_sip': [0], 'cascade_binary': [0], 'cascade_severity': [0], 'base_resnet50': [0], 'base_densenet121': [0], 'base_effb3_nocbam': [0]}
+
+Abstract/Sec 4.1  LBC test accuracy, ImageNet init : 99.65%
+Abstract/Sec 4.1  LBC test accuracy, SIPaKMeD init : 99.83%
+Sec 4.1  LBC test macro-F1 ImageNet / SIPaKMeD      : 0.9915 / 0.9958
+Abstract  Malhari 75% accuracy (LBC only, ImageNet): 53.33%
+Sec 4.1  Malhari macro-AUC source-only (ImageNet)   : 0.6412
+Sec 4.1  Few-shot macro-F1 base -> fine-tuned       : 0.2653 -> 0.4507
+Abstract  Multi-domain LBC / Malhari test accuracy  : 100.00% / 100.00%
+Sec 4.1  Multi-domain merged test accuracy          : 100.00%
+Sec 3.3  Number of labelled/unlabelled adapt images : 74
+Sec 3.3  Duplicate audit                            : {'n_images': 1280, 'pairs_exact': 29, 'pairs_phash': 4, 'pairs_within_LBC': 2, 'pairs_within_Malhari': 11, 'pairs_cross_dataset': 20, 'pairs_label_conflict': 2, 'groups_LBC': 960, 'groups_Malhari': 307, 'phash_hamming_threshold': 4, 'excluded_Malhari_dup_of_LBC': 20, 'excluded_label_conflict_LBC': 0, 'excluded_label_conflict_Malhari': 4, 'LBC_after_exclusion': 962, 'Malhari_after_exclusion': 294}
+Limitations  SCC images in LBC test set             : 15
+Sec 4.1  Malhari hold-out size (multi-domain)       : 58
+
+ImageNet: CORAL+MK-MMD vs base (Malhari): dAcc=-2.15 pp (t p=0.056), dF1=+0.0090 (t p=0.504, Wilcoxon p=0.389), dAUC=-0.0291, McNemar Holm max p=0.476, seed-0 bootstrap 95% CI of dF1=[+0.0352, +0.1164]
+SIPaKMeD: CORAL+MK-MMD vs base (Malhari): dAcc=-3.00 pp (t p=0.003), dF1=-0.0036 (t p=0.679, Wilcoxon p=0.890), dAUC=-0.0221, McNemar Holm max p=0.092, seed-0 bootstrap 95% CI of dF1=[-0.0466, +0.0261]
+ImageNet: few-shot vs base (Malhari): dAcc=+4.30 pp (t p=0.012), dF1=+0.1054 (t p=0.002, Wilcoxon p=0.004), dAUC=+0.0745, McNemar Holm max p=0.327, seed-0 bootstrap 95% CI of dF1=[+0.1783, +0.3268]
+SIPaKMeD: few-shot vs base (Malhari): dAcc=+2.70 pp (t p=0.035), dF1=+0.0417 (t p=0.014, Wilcoxon p=0.007), dAUC=+0.0460, McNemar Holm max p=1.000, seed-0 bootstrap 95% CI of dF1=[+0.0464, +0.1468]
+SIPaKMeD vs ImageNet init (LBC test): dAcc=-0.24 pp (t p=0.761), dF1=+0.0042 (t p=0.728, Wilcoxon p=0.890), dAUC=+0.0031, McNemar Holm max p=1.000, seed-0 bootstrap 95% CI of dF1=[+0.0000, +0.0000]
+SIPaKMeD vs ImageNet init (Malhari): dAcc=-2.73 pp (t p=0.139), dF1=+0.0487 (t p=0.039, Wilcoxon p=0.041), dAUC=+0.0060, McNemar Holm max p=1.000, seed-0 bootstrap 95% CI of dF1=[+0.0474, +0.1712]
+Entropy-weighted+TS vs uniform (LBC): dAcc=+0.17 pp (t p=0.423), dF1=+0.0042 (t p=0.423, Wilcoxon p=1.000), dAUC=-0.0000, McNemar Holm max p=1.000, seed-0 bootstrap 95% CI of dF1=[+0.0000, +0.0000]
+Entropy-weighted+TS vs uniform (Malhari): dAcc=-0.45 pp (t p=0.580), dF1=-0.0111 (t p=0.247, Wilcoxon p=0.500), dAUC=+0.0086, McNemar Holm max p=1.000, seed-0 bootstrap 95% CI of dF1=[-0.0488, +0.0101]
+tau_sweep_lbc_in_lbc_test: {'0.05': 0.99576, '0.1': 0.99576, '0.25': 0.991521, '0.5': 0.991521, '1.0': 0.991521, '2.0': 0.991521, '1000000.0': 0.991521}
+errAUROC_lbc_in_lbc_test: nan
+errAUROC_lbc_in_mal_tt: 0.703353
+error_all_vs_keep90_lbc_in_lbc_test: [0.00349, 0.0]
+error_all_vs_keep90_lbc_in_mal_tt: [0.466667, 0.434343]
+ece_uniform_vs_entropyTS_lbc_in_lbc_test: [0.151121, 0.015757]
+ece_uniform_vs_entropyTS_lbc_in_mal_tt: [0.130532, 0.287333]
+cascade: {'cascade': {'accuracy': 0.979058, 'f1': 0.951509, 'recall_SCC': 0.933333}, 'stage1_sens': 1.0, 'stage1_spec': 1.0, 'scc_missed': 0, 'n_scc': 15, 'scc_recall_ci': [0.8, 1.0], 'flat': {'accuracy': 0.994764, 'f1': 0.987281, 'recall_SCC': 0.933333}}
+sipakmed_test: {'accuracy': 0.570726, 'f1': 0.560131, 'auc': 0.923734}
+cost: {'gpu': 'Tesla T4', 'params_M': 11.935828, 'GFLOPs': 3.654704, 'GMACs': 1.827352, 'size_MB': 45.53157, 'lat_ms_bs1': 15.316097, 'thr_bs32': 220.398221, 'mem_bs32_MB': 957.122559, 'train_min_mean': 4.393377, 'train_min_sd': 0.860236, 'train_mem_MB': 5185.740234, 'epochs_mean': 33.6}

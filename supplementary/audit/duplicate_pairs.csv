@@ -1,0 +1,34 @@
+i,j,type,dist,path_i,path_j,dataset_i,dataset_j,label_i,label_j
+931,1249,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (6).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/18.jpg,LBC,Malhari,SCC,SCC
+1054,1065,exact,0,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/57.jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/67.jpg,Malhari,Malhari,LSIL,LSIL
+932,1250,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (7).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/19.jpg,LBC,Malhari,SCC,SCC
+1013,1121,exact,0,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/2.jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/134.jpg,Malhari,Malhari,LSIL,NILM
+945,1270,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (19).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/37.jpg,LBC,Malhari,SCC,SCC
+914,1244,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (1).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/13.jpg,LBC,Malhari,SCC,SCC
+930,1248,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (5).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/17.jpg,LBC,Malhari,SCC,SCC
+948,1272,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (21).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/39.jpg,LBC,Malhari,SCC,SCC
+947,1271,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (20).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/38.jpg,LBC,Malhari,SCC,SCC
+928,1246,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (3).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/15.jpg,LBC,Malhari,SCC,SCC
+940,1264,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (14).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/31.jpg,LBC,Malhari,SCC,SCC
+915,1242,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (10).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/11.jpg,LBC,Malhari,SCC,SCC
+944,1269,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (18).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/36.jpg,LBC,Malhari,SCC,SCC
+1052,1061,exact,0,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/55.jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/63.jpg,Malhari,Malhari,LSIL,LSIL
+942,1267,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (16).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/34.jpg,LBC,Malhari,SCC,SCC
+1024,1126,exact,0,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/3.jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/139.jpg,Malhari,Malhari,LSIL,NILM
+949,1274,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (22).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/40.jpg,LBC,Malhari,SCC,SCC
+1051,1062,exact,0,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/54.jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/64.jpg,Malhari,Malhari,LSIL,LSIL
+1053,1063,exact,0,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/56.jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/65.jpg,Malhari,Malhari,LSIL,LSIL
+933,1252,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (8).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/20.jpg,LBC,Malhari,SCC,SCC
+1175,1195,exact,0,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/40.jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/59.jpg,Malhari,Malhari,NILM,NILM
+925,1245,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (2).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/14.jpg,LBC,Malhari,SCC,SCC
+943,1268,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (17).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/35.jpg,LBC,Malhari,SCC,SCC
+1173,1193,exact,0,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/39.jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/57.jpg,Malhari,Malhari,NILM,NILM
+941,1266,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (15).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/33.jpg,LBC,Malhari,SCC,SCC
+929,1247,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (4).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/16.jpg,LBC,Malhari,SCC,SCC
+934,1243,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_1 (9).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/12.jpg,LBC,Malhari,SCC,SCC
+950,1265,exact,0,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Squamous cell carcinoma/scc_2 (23).jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/32.jpg,LBC,Malhari,SCC,SCC
+1048,1064,exact,0,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/51.jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/66.jpg,Malhari,Malhari,LSIL,LSIL
+466,469,phash,2,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (2).jpg,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_21_ (5).jpg,LBC,LBC,NILM,NILM
+584,585,phash,2,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (5).jpg,/kaggle/input/datasets/bhavanamohod16/lbc-dataset1/Negative for Intraepithelial malignancy/NL_2_ (6).jpg,LBC,LBC,NILM,NILM
+1168,1169,phash,0,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/34.jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/35.jpg,Malhari,Malhari,NILM,NILM
+1232,1234,phash,2,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/92.jpg,/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/94.jpg,Malhari,Malhari,NILM,NILM

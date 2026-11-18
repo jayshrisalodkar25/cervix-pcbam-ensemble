@@ -1,0 +1,25 @@
+path,dataset,label,excluded
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/2.jpg,Malhari,LSIL,label_conflict
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/LSIL/3.jpg,Malhari,LSIL,label_conflict
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/134.jpg,Malhari,NILM,label_conflict
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/NILM/139.jpg,Malhari,NILM,label_conflict
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/11.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/12.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/13.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/14.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/15.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/16.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/17.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/18.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/19.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/20.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/31.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/32.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/33.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/34.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/35.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/36.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/37.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/38.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/39.jpg,Malhari,SCC,duplicate_of_LBC_image
+/kaggle/input/datasets/bhavanamohod16/malhari/Malhari Dataset/SSC/40.jpg,Malhari,SCC,duplicate_of_LBC_image

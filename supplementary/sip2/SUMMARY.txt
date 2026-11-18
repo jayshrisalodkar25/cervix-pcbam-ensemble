@@ -1,0 +1,32 @@
+SIPaKMeD-initialised models: short-schedule checkpoint (old) vs fully trained checkpoint (new)
+================================================================================================
+checkpoint: {'source': '/kaggle/working/revision_outputs/sipakmed_check/sipakmed_cluster_grouped_v2.pth', 'how': 'cell [18] output (this session)', 'md5': '937015c9ca85ff647786afdb57b22e09', 'sip_test_acc_tta': 0.9052890528905289, 'sip_test_bal_acc_tta': np.float64(0.9151378015160242), 'sip_test_f1_tta': 0.906174680106482, 'sip_test_auc_tta': np.float64(0.9945775558418111), 'sip_test_cm_tta': [[116, 2, 2, 0, 0], [15, 152, 13, 1, 2], [3, 3, 160, 0, 0], [16, 10, 6, 172, 0], [0, 3, 1, 0, 136]], 'sip_test_acc_plain': 0.9040590405904059, 'n_test_cells': 813, 'reference_acc': 0.9052890528905289, 'reference_source': '/kaggle/working/revision_outputs/sipakmed_check/sipakmed_check_values.json', 'identical_to_reference': True}
+all models finished: True
+seeds finished: {'lbc_sip2': [0, 1, 2], 'lbc_sip2_da': [0, 1, 2], 'lbc_sip2_fs': [0, 1, 2], 'merged_sip2': [0], 'lbc_sip': [0, 1, 2], 'lbc_in': [0, 1, 2], 'merged_in': [0]}
+
+LBC -> LBC (test)                                          acc  99.83 ->  99.13 | bal  99.44 ->  98.47 | F1 0.9958 -> 0.9841 | AUC 1.0000 -> 0.9998
+LBC -> Malhari (75%)                                       acc  52.73 ->  54.55 | bal  43.45 ->  37.34 | F1 0.3729 -> 0.3290 | AUC 0.6049 -> 0.5873
+LBC + unlab. Malhari 25% -> Malhari (75%)                  acc  47.42 ->  49.09 | bal  40.46 ->  37.23 | F1 0.3397 -> 0.3235 | AUC 0.5758 -> 0.5601
+LBC $rightarrow$ lab. Malhari 25% -> Malhari (75%)         acc  53.03 ->  51.36 | bal  44.22 ->  39.97 | F1 0.4017 -> 0.3524 | AUC 0.6737 -> 0.6289
+Multi-domain (LBC+Malhari) -> LBC (test)                   acc 100.00 ->  98.95 | bal 100.00 ->  98.13 | F1 1.0000 -> 0.9782 | AUC 1.0000 -> 0.9999
+Multi-domain (LBC+Malhari) -> Malhari (test)               acc  94.83 ->  98.28 | bal  95.83 ->  99.17 | F1 0.9618 -> 0.9877 | AUC 0.9950 -> 0.9987
+Multi-domain (LBC+Malhari) -> Merged (test)                acc  98.80 ->  98.80 | bal  98.58 ->  98.35 | F1 0.9880 -> 0.9789 | AUC 0.9986 -> 0.9998
+
+ImageNet: CORAL+MK-MMD vs base (Malhari)                       dAcc  -2.15 (p=0.056) | dF1 +0.0090 (p=0.504) | dAUC -0.0291 (p=0.006) | n=15
+SIPaKMeD: CORAL+MK-MMD vs base (Malhari)                       dAcc  -3.00 (p=0.010) | dF1 +0.0145 (p=0.104) | dAUC -0.0139 (p=0.200) | n=15
+ImageNet: few-shot vs base (Malhari)                           dAcc  +4.30 (p=0.012) | dF1 +0.1054 (p=0.002) | dAUC +0.0745 (p=0.012) | n=15
+SIPaKMeD: few-shot vs base (Malhari)                           dAcc  -3.15 (p=0.000) | dF1 +0.0253 (p=0.020) | dAUC +0.0269 (p=0.100) | n=15
+SIPaKMeD vs ImageNet init (LBC test)                           dAcc  -0.87 (p=0.250) | dF1 -0.0087 (p=0.447) | dAUC +0.0046 (p=0.115) | n=15
+SIPaKMeD vs ImageNet init (Malhari)                            dAcc  -1.21 (p=0.490) | dF1 +0.0078 (p=0.734) | dAUC -0.0154 (p=0.398) | n=15
+Entropy-weighted+TS vs uniform (LBC)                           dAcc  +0.17 (p=0.423) | dF1 +0.0042 (p=0.423) | dAUC -0.0000 (p=0.423) | n=3
+Entropy-weighted+TS vs uniform (Malhari)                       dAcc  -0.45 (p=0.580) | dF1 -0.0111 (p=0.247) | dAUC +0.0086 (p=0.105) | n=3
+
+SIPaKMeD full vs short schedule (LBC test)                     dAcc  -0.63 (p=0.312) | dF1 -0.0129 (p=0.191) | dAUC +0.0015 (p=0.514) | n=15
+SIPaKMeD full vs short schedule (Malhari)                      dAcc  +1.52 (p=0.434) | dF1 -0.0409 (p=0.014) | dAUC -0.0214 (p=0.316) | n=15
+SIPaKMeD full vs short schedule, CORAL+MK-MMD (Malhari)        dAcc  +1.52 (p=0.363) | dF1 -0.0228 (p=0.067) | dAUC -0.0132 (p=0.231) | n=15
+SIPaKMeD full vs short schedule, few-shot (Malhari)            dAcc  -4.33 (p=0.071) | dF1 -0.0573 (p=0.009) | dAUC -0.0405 (p=0.141) | n=15
+SIPaKMeD vs ImageNet, CORAL+MK-MMD (Malhari)                   dAcc  -2.06 (p=0.136) | dF1 +0.0133 (p=0.493) | dAUC -0.0003 (p=0.984) | n=15
+SIPaKMeD vs ImageNet, few-shot (Malhari)                       dAcc  -8.67 (p=0.004) | dF1 -0.0723 (p=0.053) | dAUC -0.0630 (p=0.086) | n=15
+SIPaKMeD vs ImageNet, multi-domain (Malhari hold-out)          dAcc  +6.90 (p=0.563) | dF1 +0.0673 (p=0.615) | dAUC +0.0483 (p=0.394) | n=5
+SIPaKMeD vs ImageNet, multi-domain (LBC hold-out)              dAcc  +7.12 (p=0.446) | dF1 +0.0751 (p=0.494) | dAUC +0.0256 (p=0.360) | n=5
+SIPaKMeD full vs short schedule, multi-domain (Malhari hold-out) dAcc  -2.76 (p=0.256) | dF1 -0.0358 (p=0.082) | dAUC +0.0040 (p=0.472) | n=5
